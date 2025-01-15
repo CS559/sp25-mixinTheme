@@ -1,0 +1,360 @@
+end-of-week-survey-01:
+  due: 2023-01-27 23:59:59-06:00
+  due_string: Fri, Jan 27
+  lock: 2023-01-30 23:59:00-06:00
+  lock_string: Mon, Jan 30
+  name: End of Week Survey 01
+  shortname: End of Week Survey 01
+  url: https://canvas.wisc.edu/courses/343665/assignments/1819286
+end-of-week-survey-02:
+  due: 2023-02-03 23:59:59-06:00
+  due_string: Fri, Feb 3
+  lock: 2023-02-10 23:59:59-06:00
+  lock_string: Fri, Feb 10
+  name: End of Week Survey 02
+  shortname: End of Week Survey 02
+  url: https://canvas.wisc.edu/courses/343665/assignments/1819289
+end-of-week-survey-03:
+  due: 2023-02-10 23:59:59-06:00
+  due_string: Fri, Feb 10
+  lock: 2023-02-13 23:59:59-06:00
+  lock_string: Mon, Feb 13
+  name: End of Week Survey 03
+  shortname: End of Week Survey 03
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845177
+end-of-week-survey-04:
+  due: 2023-02-17 23:59:59-06:00
+  due_string: Fri, Feb 17
+  lock: 2023-02-20 23:59:00-06:00
+  lock_string: Mon, Feb 20
+  name: End of Week Survey 04
+  shortname: End of Week Survey 04
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845180
+end-of-week-survey-05:
+  due: 2023-02-24 23:59:59-06:00
+  due_string: Fri, Feb 24
+  lock: 2023-02-28 23:59:00-06:00
+  lock_string: Tue, Feb 28
+  name: End of Week Survey 05
+  shortname: End of Week Survey 05
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845181
+end-of-week-survey-06:
+  due: 2023-03-03 23:59:59-06:00
+  due_string: Fri, Mar 3
+  lock: 2023-03-06 23:59:00-06:00
+  lock_string: Mon, Mar 6
+  name: End of Week Survey 06
+  shortname: End of Week Survey 06
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845182
+end-of-week-survey-07:
+  due: 2023-03-10 23:59:59-06:00
+  due_string: Fri, Mar 10
+  lock: 2023-03-24 23:59:00-05:00
+  lock_string: Fri, Mar 24
+  name: End of Week Survey 07
+  shortname: End of Week Survey 07
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845183
+end-of-week-survey-08:
+  due: 2023-03-24 23:59:59-05:00
+  due_string: Fri, Mar 24
+  lock: 2023-03-27 23:59:00-05:00
+  lock_string: Mon, Mar 27
+  name: End of Week Survey 08
+  shortname: End of Week Survey 08
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845184
+end-of-week-survey-09:
+  due: 2023-03-31 23:59:59-05:00
+  due_string: Fri, Mar 31
+  lock: 2023-04-03 23:59:00-05:00
+  lock_string: Mon, Apr 3
+  name: End of Week Survey 09
+  shortname: End of Week Survey 09
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845185
+end-of-week-survey-10:
+  due: 2023-04-07 23:59:59-05:00
+  due_string: Fri, Apr 7
+  lock: 2023-04-10 23:59:59-05:00
+  lock_string: Mon, Apr 10
+  name: End of Week Survey 10
+  shortname: End of Week Survey 10
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845186
+end-of-week-survey-11:
+  due: 2023-04-14 23:59:59-05:00
+  due_string: Fri, Apr 14
+  lock: 2023-04-17 23:59:00-05:00
+  lock_string: Mon, Apr 17
+  name: End of Week Survey 11
+  shortname: End of Week Survey 11
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845187
+end-of-week-survey-12:
+  due: 2023-04-21 23:59:59-05:00
+  due_string: Fri, Apr 21
+  lock: 2023-04-24 23:59:00-05:00
+  lock_string: Mon, Apr 24
+  name: End of Week Survey 12
+  shortname: End of Week Survey 12
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845188
+end-of-week-survey-13:
+  due: 2023-04-28 23:59:59-05:00
+  due_string: Fri, Apr 28
+  lock: 2023-05-01 23:59:00-05:00
+  lock_string: Mon, May 1
+  name: End of Week Survey 13
+  shortname: End of Week Survey 13
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845189
+end-of-week-survey-14:
+  due: 2023-05-05 23:59:59-05:00
+  due_string: Fri, May 5
+  lock: 2023-05-07 23:59:59-05:00
+  lock_string: Sun, May 7
+  name: End of Week Survey 14
+  shortname: End of Week Survey 14
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845190
+exam-1-part-a:
+  due: 2023-03-08 21:00:00-06:00
+  due_string: Wed, Mar 8
+  lock: 2023-03-08 21:00:00-06:00
+  lock_string: Wed, Mar 8
+  name: Exam 1 - Part A
+  shortname: Exam 1 - Part A
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845192
+exam-1-part-b:
+  due: 2023-03-08 21:00:00-06:00
+  due_string: Wed, Mar 8
+  lock: 2023-03-08 21:00:00-06:00
+  lock_string: Wed, Mar 8
+  name: Exam 1 - Part B
+  shortname: Exam 1 - Part B
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845195
+exam-1-part-c:
+  due: 2023-03-08 21:00:00-06:00
+  due_string: Wed, Mar 8
+  lock: 2023-03-08 21:00:00-06:00
+  lock_string: Wed, Mar 8
+  name: Exam 1 - Part C
+  shortname: Exam 1 - Part C
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845196
+exam-1-scores-(adjusted):
+  due: &id001 2022-05-11 00:00:00
+  due_string: Wed, May 11
+  lock: *id001
+  lock_string: Wed, May 11
+  name: Exam 1 Scores (adjusted)
+  shortname: Exam 1 Scores (adjusted)
+  url: https://canvas.wisc.edu/courses/343665/assignments/1882938
+exam-2-part-a:
+  due: 2023-04-26 21:00:00-05:00
+  due_string: Wed, Apr 26
+  lock: 2023-04-26 21:00:00-05:00
+  lock_string: Wed, Apr 26
+  name: Exam 2 - Part A
+  shortname: Exam 2 - Part A
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845199
+exam-2-part-b:
+  due: 2023-04-26 21:00:00-05:00
+  due_string: Wed, Apr 26
+  lock: 2023-04-26 21:00:00-05:00
+  lock_string: Wed, Apr 26
+  name: Exam 2 - Part B
+  shortname: Exam 2 - Part B
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845201
+exam-2-part-c:
+  due: 2023-04-26 21:00:00-05:00
+  due_string: Wed, Apr 26
+  lock: 2023-04-26 21:00:00-05:00
+  lock_string: Wed, Apr 26
+  name: Exam 2 - Part C
+  shortname: Exam 2 - Part C
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845203
+exam-2-scores-(adjusted):
+  due: &id002 2022-05-11 00:00:00
+  due_string: Wed, May 11
+  lock: *id002
+  lock_string: Wed, May 11
+  name: Exam 2 Scores (adjusted)
+  shortname: Exam 2 Scores (adjusted)
+  url: https://canvas.wisc.edu/courses/343665/assignments/1883063
+exam-3-part-a:
+  due: 2023-05-07 14:30:00-05:00
+  due_string: Sun, May 7
+  lock: 2023-05-07 14:30:00-05:00
+  lock_string: Sun, May 7
+  name: Exam 3 - Part A
+  shortname: Exam 3 - Part A
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845233
+exam-3-part-b:
+  due: 2023-05-07 14:30:00-05:00
+  due_string: Sun, May 7
+  lock: 2023-05-07 14:30:00-05:00
+  lock_string: Sun, May 7
+  name: Exam 3 - Part B
+  shortname: Exam 3 - Part B
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845332
+exam-3-part-c:
+  due: 2023-05-07 14:30:00-05:00
+  due_string: Sun, May 7
+  lock: 2023-05-07 14:30:00-05:00
+  lock_string: Sun, May 7
+  name: Exam 3 - Part C
+  shortname: Exam 3 - Part C
+  url: https://canvas.wisc.edu/courses/343665/assignments/1845236
+getting-started-(checklist-as-a-survey):
+  due: 2023-01-26 23:59:59-06:00
+  due_string: Thu, Jan 26
+  lock: 2023-05-04 23:59:00-05:00
+  lock_string: Thu, May 4
+  name: Getting Started (Checklist as a Survey)
+  shortname: Getting Started (Checklist as a Survey)
+  url: https://canvas.wisc.edu/courses/343665/assignments/1840638
+graphics-town-project-handin:
+  due: &id003 2023-05-04 23:59:59-05:00
+  due_string: Thu, May 4
+  lock: *id003
+  lock_string: Thu, May 4
+  name: Graphics Town Project Handin
+  shortname: Graphics Town Project Handin
+  url: https://canvas.wisc.edu/courses/343665/assignments/1844867
+workbook-01-grade:
+  due: &id004 2022-05-11 00:00:00
+  due_string: Wed, May 11
+  lock: *id004
+  lock_string: Wed, May 11
+  name: Workbook 01 Grade
+  shortname: Workbook 01 Grade
+  url: https://canvas.wisc.edu/courses/343665/assignments/1872875
+workbook-01-handin:
+  due: 2023-01-30 23:59:59-06:00
+  due_string: Mon, Jan 30
+  lock: 2023-02-07 23:59:00-06:00
+  lock_string: Tue, Feb 7
+  name: Workbook 01 Handin
+  shortname: Workbook 01 Handin
+  url: https://canvas.wisc.edu/courses/343665/assignments/1819281
+workbook-02-grade:
+  due: &id005 2022-05-11 00:00:00
+  due_string: Wed, May 11
+  lock: *id005
+  lock_string: Wed, May 11
+  name: Workbook 02 Grade
+  shortname: Workbook 02 Grade
+  url: https://canvas.wisc.edu/courses/343665/assignments/1872912
+workbook-02-handin:
+  due: 2023-02-06 23:59:59-06:00
+  due_string: Mon, Feb 6
+  lock: 2023-02-13 23:59:59-06:00
+  lock_string: Mon, Feb 13
+  name: Workbook 02 Handin
+  shortname: Workbook 02 Handin
+  url: https://canvas.wisc.edu/courses/343665/assignments/1819283
+workbook-03-grade:
+  due: &id006 2022-05-11 00:00:00
+  due_string: Wed, May 11
+  lock: *id006
+  lock_string: Wed, May 11
+  name: Workbook 03 Grade
+  shortname: Workbook 03 Grade
+  url: https://canvas.wisc.edu/courses/343665/assignments/1875198
+workbook-03-handin:
+  due: 2023-02-13 23:59:59-06:00
+  due_string: Mon, Feb 13
+  lock: 2023-02-20 23:59:59-06:00
+  lock_string: Mon, Feb 20
+  name: Workbook 03 Handin
+  shortname: Workbook 03 Handin
+  url: https://canvas.wisc.edu/courses/343665/assignments/1819285
+workbook-04-grade:
+  due: &id007 2022-05-11 00:00:00
+  due_string: Wed, May 11
+  lock: *id007
+  lock_string: Wed, May 11
+  name: Workbook 04 Grade
+  shortname: Workbook 04 Grade
+  url: https://canvas.wisc.edu/courses/343665/assignments/1875199
+workbook-04-handin:
+  due: 2023-02-20 23:59:59-06:00
+  due_string: Mon, Feb 20
+  lock: 2023-02-27 23:59:59-06:00
+  lock_string: Mon, Feb 27
+  name: Workbook 04 Handin
+  shortname: Workbook 04 Handin
+  url: https://canvas.wisc.edu/courses/343665/assignments/1844770
+workbook-05-grade:
+  due: &id008 2022-05-11 00:00:00
+  due_string: Wed, May 11
+  lock: *id008
+  lock_string: Wed, May 11
+  name: Workbook 05 Grade
+  shortname: Workbook 05 Grade
+  url: https://canvas.wisc.edu/courses/343665/assignments/1887158
+workbook-05-handin:
+  due: 2023-03-06 23:59:00-06:00
+  due_string: Mon, Mar 6
+  lock: 2023-03-13 23:59:00-05:00
+  lock_string: Mon, Mar 13
+  name: Workbook 05 Handin
+  shortname: Workbook 05 Handin
+  url: https://canvas.wisc.edu/courses/343665/assignments/1844796
+workbook-06-grade:
+  due: &id009 2022-05-11 00:00:00
+  due_string: Wed, May 11
+  lock: *id009
+  lock_string: Wed, May 11
+  name: Workbook 06 Grade
+  shortname: Workbook 06 Grade
+  url: https://canvas.wisc.edu/courses/343665/assignments/1891661
+workbook-06-handin:
+  due: 2023-03-27 23:59:00-05:00
+  due_string: Mon, Mar 27
+  lock: 2023-04-03 23:59:00-05:00
+  lock_string: Mon, Apr 3
+  name: Workbook 06 Handin
+  shortname: Workbook 06 Handin
+  url: https://canvas.wisc.edu/courses/343665/assignments/1844798
+workbook-07-grade:
+  due: &id010 2022-05-11 00:00:00
+  due_string: Wed, May 11
+  lock: *id010
+  lock_string: Wed, May 11
+  name: Workbook 07 Grade
+  shortname: Workbook 07 Grade
+  url: https://canvas.wisc.edu/courses/343665/assignments/1892602
+workbook-07-handin:
+  due: 2023-03-27 23:59:59-05:00
+  due_string: Mon, Mar 27
+  lock: 2023-04-03 23:59:00-05:00
+  lock_string: Mon, Apr 3
+  name: Workbook 07 Handin
+  shortname: Workbook 07 Handin
+  url: https://canvas.wisc.edu/courses/343665/assignments/1844801
+workbook-08-grade:
+  due: &id011 2022-05-11 00:00:00
+  due_string: Wed, May 11
+  lock: *id011
+  lock_string: Wed, May 11
+  name: Workbook 08 Grade
+  shortname: Workbook 08 Grade
+  url: https://canvas.wisc.edu/courses/343665/assignments/1897500
+workbook-08-handin:
+  due: 2023-04-03 23:59:59-05:00
+  due_string: Mon, Apr 3
+  lock: 2023-04-10 23:59:59-05:00
+  lock_string: Mon, Apr 10
+  name: Workbook 08 Handin
+  shortname: Workbook 08 Handin
+  url: https://canvas.wisc.edu/courses/343665/assignments/1844836
+workbook-09-handin:
+  due: 2023-04-10 23:59:59-05:00
+  due_string: Mon, Apr 10
+  lock: 2023-04-17 23:59:59-05:00
+  lock_string: Mon, Apr 17
+  name: Workbook 09 Handin
+  shortname: Workbook 09 Handin
+  url: https://canvas.wisc.edu/courses/343665/assignments/1846577
+workbook-10-handin:
+  due: 2023-04-17 23:59:59-05:00
+  due_string: Mon, Apr 17
+  lock: 2023-04-24 23:59:59-05:00
+  lock_string: Mon, Apr 24
+  name: Workbook 10 Handin
+  shortname: Workbook 10 Handin
+  url: https://canvas.wisc.edu/courses/343665/assignments/1844866

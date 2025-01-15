@@ -1,0 +1,7 @@
+{{/* puts fix me into the page - but also will break if a flag is set */}}
+<b>FIX ME!</b>
+{{- if isset .Site.Params "fixme" -}}
+    {{- if .Site.Params.fixme }}
+        {{- errorf "Unresolved FIX ME! %q %q" .Page.Title .Page.File.Path -}}
+    {{- end }}
+{{- end -}}

@@ -1,0 +1,695 @@
+# completely cleared out for 2022, bring things in piecemeal
+#
+# remember, these are used for both the workbooks as well as the main page
+# so we do have references to the main page.
+# it got crazy unweildy very quickly
+#
+# this year, we'll divide things up...
+# we'll have a different shortcode - for different things (I didn't do this yet)
+#   page (this DB) things on the external web that we expect to be permanent
+#   cweb - things on the course web that workbooks refer to
+#   cfile - canvas files (auto generated db)
+
+## Forms for 2024
+regrade-form24:
+  name: "Regrade Form"
+  url: "https://forms.gle/Wrm15nKYmPqvoxW19"
+
+## Forms for 2023
+regrade-form23:
+  name: "Regrade Form"
+  url: "https://forms.gle/6eCj3z1hpRRE3MX79"
+appointment-scheduling-form23:
+  name: "Appointment Scheduling Form"
+  url: "https://forms.gle/yyNryQVGtXpC8F8Q7"
+consulting-assistance-form23:
+  name: "Consulting Assistance Form"
+  url: "https://forms.gle/iHzxT1hqyBhTVbVN6"
+very-late-form23:
+  name: "Very Late Workbook Form"
+  url: "https://forms.gle/3BWpmwTKSXHnjjLYA"
+
+## Forms for 2022
+regrade-form22:
+  name: "Regrade Form"
+  url: "https://forms.gle/d8qva1PwxuzFnHRv6"
+appointment-scheduling-form22:
+  name: "Appointment Scheduling Form"
+  url: "https://forms.gle/AT4qe8yKfnYCmoRw8"
+consulting-assistance-form22:
+  name: "Consulting Assistance Form"
+  url: "https://forms.gle/WgpVMHX82V3T5H8w6"
+very-late-form22:
+  name: "Very Late Workbook Form"
+  url: "https://forms.gle/rzqSzqVqrgoN5FZh6"
+
+## Class pages
+gleicher-home:
+  name: "Gleicher's Home Page"
+  url: https://gleicher.sites.cs.wisc.edu/
+mediaspace:
+  name: "Media Space Channel"
+  url: https://mediaspace.wisc.edu/channel/CS559%2BSpring%2B2023%2B-%2BComputer%2BGraphics%2BLectures%2Band%2BVideos/288831802
+
+## Links to Last Year's Class (generally should be avoided)
+outline-2021:
+  name: "2021 Course Outline with Video Links"
+  url: https://pages.graphics.cs.wisc.edu/559-sp21/pages/lecture-materials/
+outline-2022:
+  name: "2022 Course Outline with Video Links"
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/lecture-materials/
+outline-2023:
+  name: "2023 Course Outline with Video Links"
+  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/lecture-materials/
+
+
+## Class Videos
+video-git-a:
+  name: "Git-Part-A - what it looks like to do a workbook"
+  url: https://mediaspace.wisc.edu/media/Git2021A+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+A+/1_ovi963q3
+video-git-b:
+  name: "Git-Part-B - Basics of Git and GitHub Classroom"
+  url: https://mediaspace.wisc.edu/media/Git2021B+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+B/1_yel4ct2z
+video-debugger:
+  name: "Chrome Debugger Quick Start for CS 559 (2019 Video)"
+  url: https://mediaspace.wisc.edu/media/Chrome+Debugger+Quick+Start+for+CS+559+%282019%29/1_77oepxqr
+
+## UW Resources
+uw-tech-requirements:
+  url: https://it.wisc.edu/learn/guides/learning-online-technology-tips-tools/
+  name: "UW Technology Requirements for Students"
+uw-internet-doctor:
+  url: https://it.wisc.edu/news/home-internet-connection-doctor-service/
+  name: "UW Internet Connection Doctor"
+
+## references for academic conduct
+uw-academic-conduct:
+  url: https://conduct.students.wisc.edu/academic-misconduct/
+  name: "UW Definition of Academic Misconduct"
+comm-arts-academic-conduct:
+  url: https://commarts.wisc.edu/graduate/graduate-handbook/professional-conduct-and-academic-integrity/
+  name: "Professional Conduct and Academic Integrity (Department of Communication Arts)"
+uw-academic-conduct-syllabus-statement:
+  url: https://conduct.students.wisc.edu/faculty-staff-resources/syllabus-statement/
+  name: "UW Recommended Syllabus Statement"
+
+writing-learning-outcomes:
+  url: https://assessment.provost.wisc.edu/student-learning-outcomes/writing-student-learning-outcomes/ 
+  name: "Writing Learning Outcomes (UW Provost's Office)"
+
+## links to canvas - these were set for 2022, updated to 2023 
+## Canvas 22 was 293042
+## Piazza 22 was ky3ttm1xndz5h2
+canvas:
+  name: "Canvas"
+  url: https://canvas.wisc.edu/courses/343665
+canvas-files:
+  name: "Canvas Files"
+  url: https://canvas.wisc.edu/courses/343665/files
+piazza-direct:
+  name: "Piazza"
+  url: https://piazza.com/class/lcqup622tfi4lp
+piazza:
+  name: "Piazza"
+  url: https://canvas.wisc.edu/courses/343665/external_tools/65
+canvas-zoom:
+  name: "Canvas Zoom List"
+  url: https://canvas.wisc.edu/courses/343665/external_tools/14065
+canvas-calendar:
+  name: "Canvas Calendar"
+  url: https://canvas.wisc.edu/calendar?include_contexts=course_343665
+canvas-summary:
+  name: "Canvas Summary (calendar list)"
+  url: https://canvas.wisc.edu/courses/343665/external_tools/16911
+
+## Books in Canvas - unfortunately, can't do this with the file list
+fcg-canvas:
+  name: "Fundamentals of Computer Graphics (Canvas Folder)"
+  url: https://canvas.wisc.edu/courses/343665/files/folder/Books/FundamentalsOfComputerGraphics
+rtr-canvas:
+  name: "Real-Time Rendering (Canvas Folder)"
+  url: https://canvas.wisc.edu/courses/343665/files/folder/Books/Real-Time-Rendering
+hart-canvas:
+  url: https://canvas.wisc.edu/courses/343665/files/folder/Books/Hart%20Book
+  name: "Big Fun Book of Computer Graphics, Hart's Draft (Canvas Folder)"
+pla-canvas:
+  url: https://canvas.wisc.edu/courses/343665/files/folder/Books/PracticalLinearAlgebra
+  name: "Practical Linear Algebra Chapters on Canvas"
+
+# Books via Amazon
+fcg-amazon:
+  name: "Fundamentals of Computer Graphics 5e (purchase via Amazon)"
+  url: https://amzn.to/3GcJd5H
+rtr-amazon:
+  url: https://amzn.to/3zEgap7
+
+# Books via library
+fcg-proquest:
+  name: "Fundamentals of Computer Graphics 4e (official access at ProQuest)"
+  url: https://ebookcentral.proquest.com/lib/wisc/detail.action?docID=4710787
+rtr-proquest:
+  name: "Real-Time Rendering 4e (official access at ProQuest)"
+  utl: https://ebookcentral.proquest.com/lib/WISC/detail.action?docID=5474527
+
+# Mozilla SVG resources
+mozilla-vector:
+  name: "Mozilla (Official) Vector Graphics"
+  url: https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
+mozilla-svg:
+  name: "Mozilla SVG Tutorial"
+  url: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+
+# CS559 Tutorials Past
+tutorials:
+  url: https://cs559.github.io/559Tutorials
+  name: "CS559 Tutorials"
+color:
+  url: https://cs559.github.io/559Tutorials/color/color1/
+  name: "CS559 Color Tutorial"
+points-vectors:
+  url: https://cs559.github.io/559Tutorials/math/points-vectors/
+  name: "CS559 Tutorial: Points, Vectors, Coordinate Systems"
+raster-vector:
+  url: https://cs559.github.io/559Tutorials/types-of-pictures/images-vs-objects/
+  name: "CS559 Tutorial: Image-Based vs. Object-Based Graphics"
+what-is-pixel:
+  url: https://cs559.github.io/559Tutorials/types-of-pictures/pixels/
+  name: "CS559 Tutorial: What is a Pixel"
+svg1:
+  url: https://cs559.github.io/559Tutorials/svg/svg1/
+  name: "CS559 SVG Tutorial Part 1: Getting Started with SVG"
+svg2:
+  url: https://cs559.github.io/559Tutorials/svg/svg2/
+  name: "CS559 SVG Tutorial Part 2: Coordinate Systems"
+svg3:
+  url: https://cs559.github.io/559Tutorials/svg/svg3/
+  name: "CS559 SVG Tutorial Part 3: Manipulating Primitives"
+svg4:
+  url: https://cs559.github.io/559Tutorials/svg/svg4/
+  name: "CS559 SVG Tutorial Part 4: Groups, Transformations, Re-Use and Hierarchies"
+svg5:
+  url: https://cs559.github.io/559Tutorials/svg/svg5/
+  name: "CS559 SVG Tutorial Part 5: Transformations and Composition"
+svg6:
+  url: https://cs559.github.io/559Tutorials/svg/svg6/
+  name: "CS559 SVG Tutorial Part 6: Paths and Beziers"
+svg-tutorial:
+  url: https://cs559.github.io/559Tutorials/svg/
+  name: "CS559 SVG Tutorial"
+
+# Course Web (Spring 2023 -> 24)
+tools:
+  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/559tools/
+  name: "Tools for 559"
+typed-js:   # move to tutorials
+  name: "Typed JavaScript and CS559"
+  url: https://cs559.github.io/559Tutorials/javascript/typed-js/
+javascript:
+  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/javascript559/
+  name: "Javascript in CS559"
+workbooks:
+  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/workbooks/
+  name: Workbooks
+getting-started:
+  url: https://pages.graphics.cs.wisc.edu/559-sp24/posts/getting-started/
+  name: "Getting Started"
+git:
+  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/git559/
+  name: "Git and GitHub in CS559"
+vscode:
+  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/vscode559/
+  name: "Visual Studio Code (VSCode) for CS559"
+course-web:
+  url: https://pages.graphics.cs.wisc.edu/559-sp24/
+  name: "Course Web"
+books:
+  name: "Books Page"
+  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/books/
+traditional-oop-js:
+  name: "Traditional Object Oriented Programming in JavaScript"
+  url: https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
+grading:
+  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/grading/
+  name: "Grading explanation"
+galleries:
+  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/galleries/
+  name: "Galleries"
+
+# Web tutorials and references
+request-animation-frame:
+  name: "Official RequestAnimationFrame Docs"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
+mozilla-script-tag:
+  name: "Office Script Tag Documentation"
+  url: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
+learning-html:
+  url: https://developer.mozilla.org/en-US/docs/Learn/HTML
+  name: "Mozilla HTML Learning Guide"
+getting-started-html:
+  url: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+  name: "Mozilla Getting Started with HTML"
+mozilla-css:
+  name: "Mozilla Tutorial on CSS"
+  url: https://developer.mozilla.org/en-US/docs/Learn/CSS
+w3schools-defer:
+  name: "W3 Schools documentation on defer"
+  url: https://www.w3schools.com/tags/att_script_defer.asp
+template-literals:
+  name: "Template Literals Documentation"
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+closure-tutorial-video:
+  url: https://mediaspace.wisc.edu/media/Lecture%2002%3A%2001_28_2021%20Bonus%20video%3A%20Closures/1_6e7qmca0
+  name: "Closure Tutorial Video"
+debug-tutorial:
+  url: https://github.com/CS559/DebuggerTutorial
+  name: "Debugger Tutorial (GitHub Repository)"
+closure-tutorial:
+  url: https://github.com/CS559/FunctionalTutorial
+  name: "Functional Programming Tutorial (repo)"
+canvas-cheat-sheet:
+  url: https://simon.html5.org/dump/html5-canvas-cheat-sheet.html
+  name: "Canvas Cheat Sheet: "
+marinacci-canvas:
+  url: https://joshondesign.com/p/books/canvasdeepdive/title.html
+  name: "HTML Canvas Deep Dive: "
+marinacci-canvas-ch01:
+  url: https://joshondesign.com/p/books/canvasdeepdive/chapter01.html
+  name: "first chapter"
+transform-demos:
+  name: "2D Transform Demos"
+  url: https://cs559.github.io/2DTransformDemos/
+transform-toy-default:
+  url: https://cs559.github.io/2DTransformDemos/transformToy.html
+  name: "2D Transform Toy (default demos)"
+
+# Kaltura
+DeCastlejau_2:
+  url: https://mediaspace.wisc.edu/media/1_ht8bd4ii
+  name: "DeCastlejau 2"
+DeCastlejau_3:
+  url: https://mediaspace.wisc.edu/media/1_yfe2pejr
+  name: "DeCastlejau 3"
+DeCastlejau_4:
+  url: https://mediaspace.wisc.edu/media/1_b45evtd7
+  name: "DeCastlejau 4"
+
+2012-games-project:
+  url: http://graphics.cs.wisc.edu/WP/games12/2012/09/06/project-1-an-in-browser-game-with-flocking/
+  name: "2012 Games Class Projects"
+ian-irene-games-project:
+  url: http://graphics.cs.wisc.edu/Courses/Games10/proj1/RaeShei/
+  name: "Ian and Irene's Asteroids Game"
+jeff-chris-games-project:
+  url: http://graphics.cs.wisc.edu/Courses/Games10/proj1/HugoMills/
+  name: "Jeff and Chris' Sheep Herder Game"
+hughsk-boids:
+  url: https://hughsk.io/boids/
+  name: "Online Boids Demo"
+boids-video:
+  url: https://www.youtube.com/watch?v=bqtqltqcQhw&
+  name: "YouTube video by Sebastian Lague"
+2008-boids:
+  url: https://cs559.github.io/2008Boids/
+  name: "2008 Boids Demo"
+1999-train:
+  url: https://research.cs.wisc.edu/graphics/Courses/638-f1999/Projects/proj3.htm
+  name: "1999 Train Assignment"
+2014-train:
+  url: http://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/10/13/project-1-trains-and-roller-coasters/
+  name: "2014 Train Assignment"
+2008-train-expert:
+  url: https://graphics.cs.wisc.edu/Courses/559-f2008/pubs/pub_train_samtrain.jpg
+  name: "the train expert"
+2008-train:
+  url: https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-p3-train/
+  name: "2008 Train Assignment"
+2008-constructionsite:
+  name: "2008 Construction Site"
+  url: https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-constructionsite/
+2008-excavator:
+  name: "2008 Excavator"
+  url: https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-excavator/
+2015-texture-example:
+  url: https://cs559.github.io/S20-FrameworkDemos/WebGLTexture/texture.html
+  name: "2015 example"
+2020-lecture-19:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/posts/lecture19/
+  name: "Lecture 19/20"
+
+craig-reynolds:
+  name: "Craig Reynolds"
+  url: http://www.red3d.com/cwr/
+craig-reynolds-flocking-paper:
+  name: "Craig Reynolds Flocking Paper"
+  url: https://dl.acm.org/citation.cfm?id=37406
+craig-reynolds-boids-page:
+  name: "Craig Reynolds Boids Page"
+  url: http://www.red3d.com/cwr/boids/
+craig-reynolds-steering-behavior:
+  name: "Craig Reynolds Steering Behavior"
+  url: http://www.red3d.com/cwr/steer/gdc99/
+
+mozilla-canvas:
+  name: "Mozilla (Official) Canvas Tutorial (top level)"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
+mozilla-canvas-basic:
+  name: "Mozilla (Official) Canvas Tutorial: Getting Started"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
+mozilla-canvas-shapes:
+  name: "Mozilla (Official) Canvas Tutorial: Drawing Shapes"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+mozilla-canvas-styles:
+  name: "Mozilla (Official) Canvas Tutorial: Styles"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
+mozilla-canvas-current-transform:
+  name: "Canvas Current Transform"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/currentTransform
+mozilla-canvas-transform:
+  name: "Canvas Transform"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/transform
+mozilla-canvas-set-transform:
+  name: "Canvas Set Transform"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setTransform
+mozilla-canvas-api:
+  name: "Mozilla (Official) Canvas API Documentation"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+mozilla-vector:
+  name: "Mozilla (Official) Vector Graphics"
+  url: https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
+mozilla-svg:
+  name: "Mozilla SVG Tutorial"
+  url: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+mozilla-typed-array:
+  name: "TypedArray objects"
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
+mozilla-atan2:
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2
+  name: "Mozilla `atan2` documentation"
+
+# three.js
+threejs-docs:
+  name: "THREE.js Documentation (current)"
+  url: https://threejs.org/docs
+threejs-object3D:
+  name: "documentation for `Object3D`"
+  url: https://threejs.org/docs/index.html#api/en/core/Object3D
+threejs-group:
+  name: "documentation for `Group`"
+  url: https://threejs.org/docs/index.html#api/en/objects/Group
+threejs-orbitControls:
+  name: "documentation for `OrbitControls`"
+  url: https://threejs.org/docs/#examples/controls/OrbitControls
+threejs-webGlRenderer:
+  name: "WebGLRenderer"
+  url: https://threejs.org/docs/index.html#api/en/renderers/WebGLRenderer
+threejs-axesHelper:
+  name: "AxesHelper"
+  url: https://threejs.org/docs/#api/en/helpers/AxesHelper
+threejs-cameraHelper:
+  name: "CameraHelper"
+  url: https://threejs.org/docs/#api/en/helpers/CameraHelper
+threejs-mesh:
+  name: "Mesh"
+  url: https://threejs.org/docs/index.html#api/en/objects/Mesh
+threejs-meshStandardMaterial:
+  name: "MeshStandardMaterial"
+  url: https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
+threejs-meshPhongMaterial:
+  name: "MeshPhongMaterial"
+  url: https://threejs.org/docs/#api/en/materials/MeshPhongMaterial
+threejs-matrix:
+  name: "matrix transformations"
+  url: https://threejs.org/docs/#manual/en/introduction/Matrix-transformations
+threejs-perspectiveCamera:
+  name: "PerspectiveCamera"
+  url: https://threejs.org/docs/#api/en/cameras/PerspectiveCamera
+threejs-ambientLight:
+  name: "AmbientLight"
+  url: https://threejs.org/docs/#api/en/lights/AmbientLight
+threejs-pointLight:
+  name: "PointLight"
+  url: https://threejs.org/docs/#api/en/lights/PointLight
+threejs-spotLight:
+  name: "SpotLight"
+  url: https://threejs.org/docs/#api/en/lights/SpotLight
+threejs-directionalLight:
+  name: "DirectionalLight"
+  url: https://threejs.org/docs/#api/en/lights/DirectionalLight
+threejs-sphere:
+  name: "sphere"
+  url: https://threejs.org/docs/api/en/geometries/SphereGeometry.html
+threejs-cone:
+  name: "cone"
+  url: https://threejs.org/docs/#api/en/geometries/ConeGeometry
+threejs-lathe:
+  name: "lathe"
+  url: https://threejs.org/docs/#api/en/geometries/LatheGeometry
+threejs-getting-started:
+  name: "THREE.js Getting Started"
+  url: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+threejs-tutorial:
+  name: "THREE.js Tutorial"
+  url: https://medium.com/@benjamin.c.coleman/the-beginners-guide-to-beginning-three-js-c36b8947c2aa
+threejs-buffergeometry:
+  url: https://threejs.org/docs/#api/en/core/BufferGeometry
+  name: "Buffer Geometry"
+threejs-face3-deprecated:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Face3
+  name: "Face3 (deprecated)"
+threejs-geometry-deprecated:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Geometry
+  name: "Geometry (Deprecated)"
+threejs-texture:
+  url: https://threejs.org/docs/#api/en/textures/Texture
+  name: "`Texture`"
+discoverthreejs-transformations-tutorial:
+  url: https://discoverthreejs.com/book/first-steps/transformations/
+  name: "the threejs transformations tutorial"
+discoverthreejs-textures-intro:
+  url: https://discoverthreejs.com/book/first-steps/textures-intro/
+  name: "this Discover ThreeJS texture tutorial"
+threejsfundamentals-textures-tutorial:
+  url: https://threejsfundamentals.org/threejs/lessons/threejs-textures.html
+  name: "nice tutorial on texture mapping"
+allen-threejs-baby-steps:
+  url: http://rogerallen.github.io/webgl/2014/01/24/threejs-baby-steps
+  name: "ThreeJS Baby Steps"
+threejs-meshstandardmaterial:
+  url: https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
+  name: "`MeshStandardMaterial`"
+unity-standard-shader-material-parameter-normal-map:
+  url: https://docs.unity3d.com/Manual/StandardShaderMaterialParameterNormalMap.html
+  name: "Unity documentation"
+threejs-mesh-standard-material:
+  url: https://threejs.org/docs/#api/en/materials/MeshStandardMaterial.envMap
+  name: "documentation"
+threejs-cube-texture:
+  url: https://threejs.org/docs/#api/en/textures/CubeTexture
+  name: "`CubeTextureMap`"
+threejs-scene-background:
+  url: https://threejs.org/docs/#api/en/scenes/Scene.background
+  name: "`background` of the `Scene`"
+threejs-cube-texture-loader:
+  url: https://threejs.org/docs/#api/en/loaders/CubeTextureLoader
+  name: "`CubeTextureLoader`"
+threejs-shader-material:
+  url: https://threejs.org/docs/#api/en/materials/ShaderMaterial
+  name: "documentation"
+threejs-webgl-program:
+  url: https://threejs.org/docs/#api/en/renderers/webgl/WebGLProgram
+  name: "this page"
+framework-shader-helper:
+  url: https://cs559.github.io/CS559-Framework23/module-shaderHelper.html
+  name: "documentation"
+threejs-manual:
+  url: https://threejs.org/manual/
+  name: "THREE manual"
+
+framework-documentation:
+  name: "Framework Documentation"
+  url: https://cs559.github.io/CS559-Framework23/
+2020-framework-demos:
+  url: https://cs559.github.io/S20-FrameworkDemos/
+  name: "demos"
+
+# general stuff
+hugo:
+  url: https://gohugo.io/
+  name: "Hugo"
+pla_library:
+  url: https://search.library.wisc.edu/catalog/9911163667202121
+  name: "Practical Linear Algebra at the UW Library"
+understanding-es6-ch13:
+  url: https://github.com/nzakas/understandinges6/blob/master/manuscript/13-Modules.md
+  name: "this chapter in Understanding ES6"
+wikipedia-bogie:
+  url: https://en.wikipedia.org/wiki/Bogie
+  name: "Wikipedia article"
+wikipedia-bogie-diagram:
+  url: https://en.wikipedia.org/wiki/Bogie#/media/File:Bogie_Vehicle_Schematic-en.svg
+  name: "this diagram"
+aviator-game:
+  name: "Aviator Game"
+  url: https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/
+snowman-wikipedia:
+  name: "Snowman"
+  url: https://en.wikipedia.org/wiki/Snowman
+roundabout-wikipedia:
+  name: "Roundabout"
+  url: https://en.wikipedia.org/wiki/Roundabout_(play)
+concrete-pumper-1:
+  name: "Potratz"
+  url: http://www.potratzsouth.com/
+concrete-pumper-2:
+  name: "Gordy's"
+  url: http://gordysconcretepumping.com/
+pile-driver:
+  name: "Pile Driver"
+  url: https://en.wikipedia.org/wiki/Pile_driver
+jsdoc:
+  name: "jsdoc"
+  url: http://usejsdoc.org/
+explore-js:
+  name: "Exploring JS Ch15"
+  url: http://exploringjs.com/es6/ch_classes.html
+ellas-deli:
+  name: "Ella's Deli"
+  url: https://isthmus.com/news/news/epic-buys-carousel-from-ellas-deli/
+  old_url: http://www.ellasdeli.com/carousel.php
+  updated: "3/7/2021"
+trip-savvy:
+  name: "Trip Savvy"
+  url: https://www.tripsavvy.com/types-of-theme-park-attractions-4110823
+dominoes-image:
+  url: https://www.123rf.com/photo_48347848_stock-vector-full-set-of-realistic-white-domino-pieces-vector-illustration-.html
+  name: "in a drawing"
+roof-types:
+  url: https://www.roofingcalc.com/top-20-roof-types/
+  name: "this page"
+360toolkit-cubemap-converter:
+  url: https://www.360toolkit.co/convert-spherical-equirectangular-to-cubemap
+  name: "defunct web converter"
+panorama-to-cubemap:
+  url: https://jaxry.github.io/panorama-to-cubemap/
+  name: "Panorama Converter on GitHub"
+polyhaven:
+  url: https://polyhaven.com/
+  name: "Poly Haven"
+bourke:
+  url: http://paulbourke.net/
+  name: "Site with lots of information on 360 photography, but it was re-organized so I don't know where the relevant pages are."
+bourke-cubemaps:
+  url: http://paulbourke.net/panorama/cubemaps/
+  name: "Paul Bourke's Cubemap Conversion Page"
+shader-frog:
+  url: https://shaderfrog.com/
+  name: "ShaderFrog"
+khronos-webgl-reference-card:
+  url: https://www.khronos.org/files/webgl20-reference-guide.pdf
+  name: "WebGL Reference Card"
+bkcore-blog-shdr:
+  url: http://bkcore.com/blog/3d/shdr-online-glsl-shader-editor-viewer-validator.html
+  name: "here"
+glsl-sandbox:
+  url: http://glslsandbox.com/
+  name: "GLSL Sandbox"
+shadertoy:
+  url: https://www.shadertoy.com/
+  name: "ShaderToy"
+the-book-of-shaders-examples:
+  url: https://thebookofshaders.com/examples/
+  name: "The Book of Shaders"
+glsl-sandbox-wwi-dogfight:
+  url: http://glslsandbox.com/e#63078.0
+  name: "WWI dogfight"
+library-glsl-essentials:
+  url: https://search.library.wisc.edu/catalog/9912150691002121
+  name: "UW library"
+library-opengl4-shading-language-cookbook:
+  url: https://search.library.wisc.edu/catalog/9911069619502121
+  name: "OpenGL4 Shading Language Cookbook"
+shaderific-glsl-reference:
+  url: http://www.shaderific.com/glsl/
+  name: "GLSL reference"
+khronos-glsl-spec:
+  url: https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.60.pdf
+  name: "here"
+the-book-of-shaders:
+  url: https://thebookofshaders.com/
+  name: "The Book of Shaders"
+threejs-uniforms-lib:
+  url: https://threejs.org/docs/#api/en/renderers/shaders/UniformsLib
+  name: "`UniformsLib`"
+shadertoy-snake:
+  url: https://www.shadertoy.com/view/wlVSDK
+  name: "Snake"
+webgl-ref-card:
+  url: https://www.khronos.org/files/webgl20-reference-guide.pdf
+  name: "WebGL Reference Card"
+glsl-book:
+  url: https://amzn.to/2x9wtyF
+  name: "The OpenGL Shading Language (3e)"
+
+# 2021 Galleries
+gallery-21:
+  url: https://pages.graphics.cs.wisc.edu/559-sp21/gallery/
+  name: "2021 Workbook Galleries"  
+wb02-gallery-21: 
+  url: https://pages.graphics.cs.wisc.edu/559-sp21/gallery/wb02/
+  name: "2021 Workbook 2 Gallery"
+wb03-gallery-21: 
+  url: https://pages.graphics.cs.wisc.edu/559-sp21/gallery/wb03/
+  name: "2021 Workbook 3 Gallery"
+
+# 2022 Galleries
+gallery-22:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/gallery/
+  name: "2022 Gallery Index"
+wb02-gallery-22:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/gallery/gallery02/
+  name: "2022 Workbook 2 Gallery"
+wb03-gallery-22:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/gallery/gallery03/
+  name: "2022 Workbook 3 Gallery"
+
+# Graphics Town Things
+grtown-rubric:
+  url: https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/rubric
+  name: "2023 Graphics Town Rubric"
+grtown-index:
+  url: https:/pages.graphics.cs.wisc.edu/559-sp24/grtown
+  name: "2023 Graphics Town Index"
+grtown-instructions:
+  url: https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/grtown
+  name: "2023 Graphics Town Instructions"
+grtown-hints:
+  url: https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/hints
+  name: "2023 Graphics Town Hints"
+grtown-advanced:
+  url: https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/advanced
+  name: "2023 Graphics Town Advanced Things"
+grtown-instructions-attribution:
+  url: https:/pages.graphics.cs.wisc.edu/559-sp24/grtown/grtown/#collaboration-use-re-use-and-attribution
+  name: "2023 Graphics Town Attribution Instructions"
+
+# Seitz Videos
+graphics-5-min-uw:
+  url: https://g5m.cs.washington.edu/
+  name: "Graphics in 5 Minutes"
+graphics-5-min-yt:
+  url: https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO
+  name: "Graphics in 5 Minutes You Tube Channel"
+g5m-1-affine:
+  url: https://youtu.be/AheaTd_l5Is
+  name: "Affine Transformations in 5 Minutes"
+g5m-2-hierarchy:
+  url: https://youtu.be/4iNJdWXsFQ4
+  name: "Hierarchical Modeling in 5 Minutes"
+
+# other videos
+beauty-of-bezier:
+  url: https://www.youtube.com/watch?v=aVwxzDHniEw
+  name: The Beauty of Bezier Curves
+continuity-of-splines:
+  name: The Continuity of Splines
+  url: https://www.youtube.com/watch?v=jvPPXbo87ds
