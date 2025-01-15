@@ -1,4 +1,4 @@
-# Mixin "Theme" for CS559 2023 Hugo Sites
+# Mixin "Theme" for CS559 2025 Hugo Sites
 
 This "theme" has things used for both the main web page as well as the workbooks.
 
@@ -7,4 +7,4 @@ it's really a "theme mixin" (although, arguably, 559Theme isn't a complete theme
 Hugo has no terminology for a "partial theme".
 
 **Note:** the `workbooks.toml` file (with the rubrics) has been moved to the main workbook
-repository.
+repository (in the "wb" theme that is not a submodule).
