@@ -1,47 +1,12 @@
+# for 2025 - we'll be careful to make sure anything section specific
+# is clear, so it works for both sections
+#
 # completely cleared out for 2022, bring things in piecemeal
 #
 # remember, these are used for both the workbooks as well as the main page
 # so we do have references to the main page.
 # it got crazy unweildy very quickly
 #
-# this year, we'll divide things up...
-# we'll have a different shortcode - for different things (I didn't do this yet)
-#   page (this DB) things on the external web that we expect to be permanent
-#   cweb - things on the course web that workbooks refer to
-#   cfile - canvas files (auto generated db)
-
-## Forms for 2024
-regrade-form24:
-  name: "Regrade Form"
-  url: "https://forms.gle/Wrm15nKYmPqvoxW19"
-
-## Forms for 2023
-regrade-form23:
-  name: "Regrade Form"
-  url: "https://forms.gle/6eCj3z1hpRRE3MX79"
-appointment-scheduling-form23:
-  name: "Appointment Scheduling Form"
-  url: "https://forms.gle/yyNryQVGtXpC8F8Q7"
-consulting-assistance-form23:
-  name: "Consulting Assistance Form"
-  url: "https://forms.gle/iHzxT1hqyBhTVbVN6"
-very-late-form23:
-  name: "Very Late Workbook Form"
-  url: "https://forms.gle/3BWpmwTKSXHnjjLYA"
-
-## Forms for 2022
-regrade-form22:
-  name: "Regrade Form"
-  url: "https://forms.gle/d8qva1PwxuzFnHRv6"
-appointment-scheduling-form22:
-  name: "Appointment Scheduling Form"
-  url: "https://forms.gle/AT4qe8yKfnYCmoRw8"
-consulting-assistance-form22:
-  name: "Consulting Assistance Form"
-  url: "https://forms.gle/WgpVMHX82V3T5H8w6"
-very-late-form22:
-  name: "Very Late Workbook Form"
-  url: "https://forms.gle/rzqSzqVqrgoN5FZh6"
 
 ## Class pages
 gleicher-home:
@@ -97,42 +62,17 @@ writing-learning-outcomes:
   url: https://assessment.provost.wisc.edu/student-learning-outcomes/writing-student-learning-outcomes/ 
   name: "Writing Learning Outcomes (UW Provost's Office)"
 
-## links to canvas - these were set for 2022, updated to 2023 
-## Canvas 22 was 293042
-## Piazza 22 was ky3ttm1xndz5h2
-canvas:
-  name: "Canvas"
-  url: https://canvas.wisc.edu/courses/343665
-canvas-files:
-  name: "Canvas Files"
-  url: https://canvas.wisc.edu/courses/343665/files
-piazza-direct:
-  name: "Piazza"
-  url: https://piazza.com/class/lcqup622tfi4lp
-piazza:
-  name: "Piazza"
-  url: https://canvas.wisc.edu/courses/343665/external_tools/65
-canvas-zoom:
-  name: "Canvas Zoom List"
-  url: https://canvas.wisc.edu/courses/343665/external_tools/14065
-canvas-calendar:
-  name: "Canvas Calendar"
-  url: https://canvas.wisc.edu/calendar?include_contexts=course_343665
-canvas-summary:
-  name: "Canvas Summary (calendar list)"
-  url: https://canvas.wisc.edu/courses/343665/external_tools/16911
-
 ## Books in Canvas - unfortunately, can't do this with the file list
-fcg-canvas:
+fcg-canvas23:
   name: "Fundamentals of Computer Graphics (Canvas Folder)"
   url: https://canvas.wisc.edu/courses/343665/files/folder/Books/FundamentalsOfComputerGraphics
-rtr-canvas:
+rtr-canvas23:
   name: "Real-Time Rendering (Canvas Folder)"
   url: https://canvas.wisc.edu/courses/343665/files/folder/Books/Real-Time-Rendering
-hart-canvas:
+hart-canvas23:
   url: https://canvas.wisc.edu/courses/343665/files/folder/Books/Hart%20Book
   name: "Big Fun Book of Computer Graphics, Hart's Draft (Canvas Folder)"
-pla-canvas:
+pla-canvas23:
   url: https://canvas.wisc.edu/courses/343665/files/folder/Books/PracticalLinearAlgebra
   name: "Practical Linear Algebra Chapters on Canvas"
 
@@ -198,40 +138,40 @@ svg-tutorial:
   name: "CS559 SVG Tutorial"
 
 # Course Web (Spring 2023 -> 24)
-tools:
+tools24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/559tools/
   name: "Tools for 559"
-typed-js:   # move to tutorials
+typed-js24:   # move to tutorials
   name: "Typed JavaScript and CS559"
   url: https://cs559.github.io/559Tutorials/javascript/typed-js/
-javascript:
+javascript24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/javascript559/
   name: "Javascript in CS559"
-workbooks:
+workbooks24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/workbooks/
   name: Workbooks
-getting-started:
+getting-started24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/posts/getting-started/
   name: "Getting Started"
-git:
+git24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/git559/
   name: "Git and GitHub in CS559"
-vscode:
+vscode24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/vscode559/
   name: "Visual Studio Code (VSCode) for CS559"
-course-web:
+course-web24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/
   name: "Course Web"
-books:
+books24:
   name: "Books Page"
   url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/books/
-traditional-oop-js:
+traditional-oop-js24:
   name: "Traditional Object Oriented Programming in JavaScript"
   url: https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
-grading:
+grading24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/grading/
   name: "Grading explanation"
-galleries:
+galleries24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/galleries/
   name: "Galleries"
 

@@ -1,6 +1,8 @@
 {{- $book := index .Site.Data.files (.Get 0)}}
 {{- $altname := .Get 1 -}}
 
+{{errorf "Don't use CFILE in 2025 because we have multiple Sections!"}}
+
 {{- with $book -}}
 <a href="{{- $book.url -}}">
     {{- with $altname -}}
