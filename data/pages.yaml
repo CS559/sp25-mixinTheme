@@ -8,11 +8,25 @@
 # it got crazy unweildy very quickly
 #
 
+## Honors section links
+ah25-home:
+  name: "CS559AH (honors) course web"
+  url: git@github.com:CS559/sp25-mixinTheme.git
+ah25-attendance-form:
+  name: "CS559AH (honors) attendance form"
+  url: https://forms.gle/zTVWD8iaKHJ6J7Ru6
+ah25-canvas:
+  name: "CS559AH Canvas"
+  url: https://canvas.wisc.edu/courses/446525
+ah25-piazza:
+  name: "CS559AH Piazza"
+  url: https://canvas.wisc.edu/courses/446525/external_tools/20073
+
 ## Class pages
 gleicher-home:
   name: "Gleicher's Home Page"
   url: https://gleicher.sites.cs.wisc.edu/
-mediaspace:
+mediaspace-23:
   name: "Media Space Channel"
   url: https://mediaspace.wisc.edu/channel/CS559%2BSpring%2B2023%2B-%2BComputer%2BGraphics%2BLectures%2Band%2BVideos/288831802
 
@@ -103,6 +117,9 @@ mozilla-svg:
 tutorials:
   url: https://cs559.github.io/559Tutorials
   name: "CS559 Tutorials"
+learning-goals:
+  url: https://cs559.github.io/559Tutorials/general-info/learning-goals/
+  name: "CS559 Learning Goals"
 color:
   url: https://cs559.github.io/559Tutorials/color/color1/
   name: "CS559 Color Tutorial"
@@ -141,11 +158,11 @@ svg-tutorial:
 tools24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/559tools/
   name: "Tools for 559"
-typed-js24:   # move to tutorials
+typed-js:   # move to tutorials
   name: "Typed JavaScript and CS559"
   url: https://cs559.github.io/559Tutorials/javascript/typed-js/
-javascript24:
-  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/javascript559/
+javascript559: # move to tutorials
+  url: https://cs559.github.io/559Tutorials/javascript/javascript559/
   name: "Javascript in CS559"
 workbooks24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/workbooks/
