@@ -238,6 +238,12 @@ transform-demos:
 transform-toy-default:
   url: https://cs559.github.io/2DTransformDemos/transformToy.html
   name: "2D Transform Toy (default demos)"
+traditional-oop-js:
+  name: "Traditional Object Oriented Programming in JavaScript"
+  url: https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
+javascript:
+  url: https://cs559.github.io/559Tutorials/javascript/javascript559/
+  name: "Javascript in CS559"
 
 # Kaltura
 DeCastlejau_2:
