@@ -11,7 +11,7 @@
 ## Honors section links
 ah25-home:
   name: "CS559AH (honors) course web"
-  url: git@github.com:CS559/sp25-mixinTheme.git
+  url: https://pages.graphics.cs.wisc.edu/559-sp25-honors/
 ah25-attendance-form:
   name: "CS559AH (honors) attendance form"
   url: https://forms.gle/zTVWD8iaKHJ6J7Ru6
@@ -158,8 +158,8 @@ svg-tutorial:
   name: "CS559 SVG Tutorial"
 
 # Course Web (Spring 2023 -> 24)
-tools24:
-  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/559tools/
+tools: # move to tutorials
+  url: https://cs559.github.io/559Tutorials/tools-and-setup/559tools/
   name: "Tools for 559"
 typed-js:   # move to tutorials
   name: "Typed JavaScript and CS559"
@@ -173,11 +173,11 @@ workbooks24:
 getting-started24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/posts/getting-started/
   name: "Getting Started"
-git24:
-  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/git559/
+git: # move to tutorials
+  url: https://cs559.github.io/559Tutorials/tools-and-setup/git559/
   name: "Git and GitHub in CS559"
-vscode24:
-  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/vscode559/
+vscode: # move to tutorials
+  url: https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
   name: "Visual Studio Code (VSCode) for CS559"
 course-web24:
   url: https://pages.graphics.cs.wisc.edu/559-sp24/
@@ -241,6 +241,12 @@ transform-demos:
 transform-toy-default:
   url: https://cs559.github.io/2DTransformDemos/transformToy.html
   name: "2D Transform Toy (default demos)"
+traditional-oop-js:
+  name: "Traditional Object Oriented Programming in JavaScript"
+  url: https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
+javascript:
+  url: https://cs559.github.io/559Tutorials/javascript/javascript559/
+  name: "Javascript in CS559"
 
 # Kaltura
 DeCastlejau_2:
