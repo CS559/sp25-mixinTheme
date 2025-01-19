@@ -164,36 +164,57 @@ tools: # move to tutorials
 typed-js:   # move to tutorials
   name: "Typed JavaScript and CS559"
   url: https://cs559.github.io/559Tutorials/javascript/typed-js/
+javascript: # move to tutorials
+  url: https://cs559.github.io/559Tutorials/javascript/javascript559/
+  name: "Javascript in CS559"
 javascript559: # move to tutorials
   url: https://cs559.github.io/559Tutorials/javascript/javascript559/
   name: "Javascript in CS559"
-workbooks24:
-  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/workbooks/
-  name: Workbooks
-getting-started24:
-  url: https://pages.graphics.cs.wisc.edu/559-sp24/posts/getting-started/
-  name: "Getting Started"
 git: # move to tutorials
+  url: https://cs559.github.io/559Tutorials/tools-and-setup/git559/
+  name: "Git and GitHub in CS559"
+git559: # move to tutorials
   url: https://cs559.github.io/559Tutorials/tools-and-setup/git559/
   name: "Git and GitHub in CS559"
 vscode: # move to tutorials
   url: https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
   name: "Visual Studio Code (VSCode) for CS559"
-course-web24:
-  url: https://pages.graphics.cs.wisc.edu/559-sp24/
-  name: "Course Web"
-books24:
-  name: "Books Page"
-  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/books/
-traditional-oop-js24:
+traditional-oop-js:
   name: "Traditional Object Oriented Programming in JavaScript"
   url: https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
-grading24:
-  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/grading/
-  name: "Grading explanation"
-galleries24:
-  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/galleries/
-  name: "Galleries"
+git-ssh:
+  name: "Git Setup and SSH Configuration"
+  url: https://cs559.github.io/559Tutorials/tools-and-setup/git-ssh/
+vscode:
+  name: "Visual Studio Code (VSCode) for CS559"
+  url: https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
+vscode559:
+  name: "Visual Studio Code (VSCode) for CS559"
+  url: https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
+learning-goals:
+  name: "Learning Goals"
+  url: https://cs559.github.io/559Tutorials/general-info/learning-goals/
+# workbooks24:
+#  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/workbooks/
+#  name: Workbooks
+#getting-started24:
+#  url: https://pages.graphics.cs.wisc.edu/559-sp24/posts/getting-started/
+#  name: "Getting Started"
+# course-web24:
+#  url: https://pages.graphics.cs.wisc.edu/559-sp24/
+#  name: "Course Web"
+# books24:
+#  name: "Books Page"
+#  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/books/
+# traditional-oop-js24:
+#  name: "Traditional Object Oriented Programming in JavaScript"
+#  url: https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
+# grading24:
+#  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/grading/
+#  name: "Grading explanation"
+# galleries24:
+#  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/galleries/
+#  name: "Galleries"
 
 # Web tutorials and references
 request-animation-frame:
