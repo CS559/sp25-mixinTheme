@@ -21,6 +21,9 @@ ah25-canvas:
 ah25-piazza:
   name: "CS559AH Piazza"
   url: https://canvas.wisc.edu/courses/446525/external_tools/20073
+ah25-calendar:
+  name: "CS559AH Canvas Calendar"
+  url: https://canvas.wisc.edu/calendar?include_contexts=course_446525#view_name=month&view_start=2025-01-18
 
 ## Class pages
 gleicher-home:
