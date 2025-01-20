@@ -25,6 +25,29 @@ ah25-calendar:
   name: "CS559AH Canvas Calendar"
   url: https://canvas.wisc.edu/calendar?include_contexts=course_446525#view_name=month&view_start=2025-01-18
 
+## Regular section links
+r25-canvas:
+  name: "Canvas"
+  url: https://canvas.wisc.edu/courses/446529
+r25-tophat:
+  name: "TopHat"
+  url: https://app.tophat.com/e/993679
+r25-piazza:
+  name: "Piazza"
+  url: https://piazza.com/class/m3o08ia4d7918c
+r25-oh:
+  name: "Consulting Hours Form"
+  url: https://forms.gle/BwMYB5McyEXVuzt26
+r25-app:
+  name: "Individual Appointment Form"
+  url: https://forms.gle/svhgGNbp2ZkuvATf6
+r25-wb:
+  name: "Workbook Regrade Form"
+  url: https://forms.gle/DP14yU4krufasenGA
+r25-late:
+  name: "Late Submission Form"
+  url: https://forms.gle/ZaqT4NShZbkzmS8HA
+
 ## Class pages
 gleicher-home:
   name: "Gleicher's Home Page"
