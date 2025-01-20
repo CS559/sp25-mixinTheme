@@ -13,7 +13,7 @@ ah25-home:
   name: "CS559AH (honors) course web"
   url: https://pages.graphics.cs.wisc.edu/559-sp25-honors/
 ah25-attendance-form:
-  name: "CS559AH (honors) attendance form"
+  name: "CS559AH attendance form"
   url: https://forms.gle/zTVWD8iaKHJ6J7Ru6
 ah25-canvas:
   name: "CS559AH Canvas"
@@ -180,6 +180,19 @@ svg-tutorial:
   url: https://cs559.github.io/559Tutorials/svg/
   name: "CS559 SVG Tutorial"
 
+copilot-signup:
+  url: https://cs559.github.io/559Tutorials/tools-and-setup/copilot_signup/
+  name: "GitHub Copilot Signup for CS559 Students"
+copilot-vscode:
+  name: "Setting up GitHub Copilot in VSCode"
+  url: https://cs559.github.io/559Tutorials/tools-and-setup/copilot_vscode/
+debuggers:
+  name: "JavaScript Debugger Tutorials"
+  url: https://cs559.github.io/559Tutorials/javascript/debugger/
+javascript-category:
+  name: "JavaScript Tutorials List"
+  url: https://cs559.github.io/559Tutorials/javascript/
+
 # Course Web (Spring 2023 -> 24)
 tools: # move to tutorials
   url: https://cs559.github.io/559Tutorials/tools-and-setup/559tools/
@@ -220,6 +233,7 @@ vscode559:
 learning-goals:
   name: "Learning Goals"
   url: https://cs559.github.io/559Tutorials/general-info/learning-goals/
+
 # workbooks24:
 #  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/workbooks/
 #  name: Workbooks
