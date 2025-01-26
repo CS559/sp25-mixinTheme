@@ -129,6 +129,9 @@ color:
 points-vectors:
   url: https://cs559.github.io/559Tutorials/math/points-vectors/
   name: "CS559 Tutorial: Points, Vectors, Coordinate Systems"
+linear-algebra:
+  url: https://cs559.github.io/559Tutorials/math/linear-algebra/
+  name: "CS559 Tutorial: Linear Algebra for CS559"
 raster-vector:
   url: https://cs559.github.io/559Tutorials/types-of-pictures/images-vs-objects/
   name: "CS559 Tutorial: Image-Based vs. Object-Based Graphics"
