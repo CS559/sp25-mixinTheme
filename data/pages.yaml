@@ -578,7 +578,7 @@ pile-driver:
   url: https://en.wikipedia.org/wiki/Pile_driver
 jsdoc:
   name: "jsdoc"
-  url: http://usejsdoc.org/
+  url: https://jsdoc.app/
 explore-js:
   name: "Exploring JS Ch15"
   url: http://exploringjs.com/es6/ch_classes.html
