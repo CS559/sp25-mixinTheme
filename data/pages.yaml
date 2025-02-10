@@ -656,9 +656,15 @@ shadertoy-snake:
 webgl-ref-card:
   url: https://www.khronos.org/files/webgl20-reference-guide.pdf
   name: "WebGL Reference Card"
-glsl-book:
+glsl-book-amazon:
   url: https://amzn.to/2x9wtyF
   name: "The OpenGL Shading Language (3e)"
+glsl-book-oreilly:
+  url: https://learning-oreilly-com.ezproxy.library.wisc.edu/library/view/opengl-r-shading-language/0321334892/
+  name: "OpenGL(R) Shading Language on OReilly (via ezproxy)"
+glsl-book-library:
+  url: https://search.library.wisc.edu/catalog/9910023080902121
+  name: "OpenGL(R) Shading Language (3e) (at UW Library)"
 
 # 2021 Galleries
 gallery-21:
