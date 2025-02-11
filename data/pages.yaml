@@ -492,9 +492,15 @@ threejs-geometry-deprecated:
 threejs-texture:
   url: https://threejs.org/docs/#api/en/textures/Texture
   name: "`Texture`"
+discoverthreejs:
+  url: https://discoverthreejs.com/
+  name: "Discover ThreeJS"
 discoverthreejs-transformations-tutorial:
   url: https://discoverthreejs.com/book/first-steps/transformations/
   name: "the threejs transformations tutorial"
+discoverthreejs-train-tutorial:
+  url: https://discoverthreejs.com/book/first-steps/built-in-geometries/
+  name: "the threejs built-in geometry tutorial (with train)"
 discoverthreejs-textures-intro:
   url: https://discoverthreejs.com/book/first-steps/textures-intro/
   name: "this Discover ThreeJS texture tutorial"
