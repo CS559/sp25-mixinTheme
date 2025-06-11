@@ -2,9 +2,13 @@
 
 This "theme" has things used for both the main web page as well as the workbooks.
 
+A second major use of the mixin: a configuration file that should be common across all of the workbooks. )
+
 It consists of data and shortcode, but no page layouts - so it isn't really a theme,
 it's really a "theme mixin" (although, arguably, 559Theme isn't a complete theme either).
 Hugo has no terminology for a "partial theme".
+
+It also has a config file that allows for shared configurations amongst all workbooks. However... the security stuff must be set correctly.
 
 **Note:** the `workbooks.toml` file (with the rubrics) has been moved to the main workbook
 repository (in the "wb" theme that is not a submodule).
