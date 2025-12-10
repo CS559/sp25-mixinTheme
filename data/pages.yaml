@@ -227,15 +227,9 @@ traditional-oop-js:
 git-ssh:
   name: "Git Setup and SSH Configuration"
   url: https://cs559.github.io/559Tutorials/tools-and-setup/git-ssh/
-vscode:
-  name: "Visual Studio Code (VSCode) for CS559"
-  url: https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
 vscode559:
   name: "Visual Studio Code (VSCode) for CS559"
   url: https://cs559.github.io/559Tutorials/tools-and-setup/vscode559/
-learning-goals:
-  name: "Learning Goals"
-  url: https://cs559.github.io/559Tutorials/general-info/learning-goals/
 
 # workbooks24:
 #  url: https://pages.graphics.cs.wisc.edu/559-sp24/pages/workbooks/
@@ -305,12 +299,12 @@ transform-demos:
 transform-toy-default:
   url: https://cs559.github.io/2DTransformDemos/transformToy.html
   name: "2D Transform Toy (default demos)"
-traditional-oop-js:
-  name: "Traditional Object Oriented Programming in JavaScript"
-  url: https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
-javascript:
-  url: https://cs559.github.io/559Tutorials/javascript/javascript559/
-  name: "Javascript in CS559"
+#traditional-oop-js:
+#  name: "Traditional Object Oriented Programming in JavaScript"
+#  url: https://cs559.github.io/559Tutorials/javascript/oop-in-js-1/
+#javascript:
+#  url: https://cs559.github.io/559Tutorials/javascript/javascript559/
+#  name: "Javascript in CS559"
 
 # Kaltura
 DeCastlejau_2:
@@ -403,12 +397,12 @@ mozilla-canvas-set-transform:
 mozilla-canvas-api:
   name: "Mozilla (Official) Canvas API Documentation"
   url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
-mozilla-vector:
-  name: "Mozilla (Official) Vector Graphics"
-  url: https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
-mozilla-svg:
-  name: "Mozilla SVG Tutorial"
-  url: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+#mozilla-vector:
+#  name: "Mozilla (Official) Vector Graphics"
+#  url: https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
+#mozilla-svg:
+#  name: "Mozilla SVG Tutorial"
+#  url: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 mozilla-typed-array:
   name: "TypedArray objects"
   url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
