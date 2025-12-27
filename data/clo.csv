@@ -1,0 +1,8 @@
+Workbook Number,Workbook Name,Learning Goal Number,Learning Goal Text
+0,"CLO",1,"Develop interactive graphical applications in 2D and 3D using different types of APIs"
+0,"CLO",2,"Analyze and apply coordinate systems and transformations in 2D and 3D to model objects hierarchically and prepare them for viewing"
+0,"CLO",3,"Explain and apply shape modeling techniques, including parametric curves and meshes, in 2D and 3D"
+0,"CLO",4,"Select and apply appearance modeling techniques including texturing and lighting"
+0,"CLO",5,"Explain the structure and operation of the graphics pipeline and hardware, and use this understanding to implement and optimize efficient graphical applications"
+0,"CLO",6,"Identify the issues in discrete representations and select approaches to mitigate them"
+0,"CLO",7,"Discuss how imagery is perceived and the impact of perception on computer generated imagery"
